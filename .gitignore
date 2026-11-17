@@ -1,0 +1,6 @@
+src.html
+build.py
+parts.py
+img_meta.json
+*.part
+__pycache__/
